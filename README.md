@@ -168,7 +168,7 @@ EditMode.rotate2D
 EditMode.viewMode
 ```
 
-<img src="./media/examples/viewMode.gif" width="200" />
+<img src="https://media.giphy.com/media/dfmBvzfDUyEI7LB6Xg/giphy.gif" width="200" />
 
 Full Code:
 ```dart 
