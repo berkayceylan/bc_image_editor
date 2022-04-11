@@ -145,30 +145,29 @@ Edit With Gesture Detector Examples:
 EditMode.size
 ```
 
-<img src="./media/examples/size.gif" width="200" />
+<img src="https://github.com/berkayceylan150/bc-image-editor/raw/master/media/examples/size.gif" width="200" />
 
 ```dart
 EditMode.horizontalRotate
 ```
-<img src="./media/examples/horizontal.gif" width="200" />
+<img src="https://github.com/berkayceylan150/bc-image-editor/raw/master/media/examples/horizontal.gif" width="200" />
 
 ```dart
 EditMode.verticalRotate
 ```
 
-<img src="./media/examples/vertical.gif" width="200" />
+<img src="https://github.com/berkayceylan150/bc-image-editor/raw/master/media/examples/vertical.gif" width="200" />
 
 ```dart
 EditMode.rotate2D
 
 ```
-<img src="./media/examples/2d.gif" width="200" />
+<img src="https://github.com/berkayceylan150/bc-image-editor/raw/master/media/examples/2d.gif" width="200" />
 
 ```dart
 EditMode.viewMode
 ```
-
-<img src="https://media.giphy.com/media/dfmBvzfDUyEI7LB6Xg/giphy.gif" width="200" />
+![](https://media.giphy.com/media/dfmBvzfDUyEI7LB6Xg/giphy.gif)
 
 Full Code:
 ```dart 
