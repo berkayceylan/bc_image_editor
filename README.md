@@ -167,7 +167,8 @@ EditMode.rotate2D
 ```dart
 EditMode.viewMode
 ```
-![](https://media.giphy.com/media/dfmBvzfDUyEI7LB6Xg/giphy.gif)
+<img src="https://github.com/berkayceylan150/bc-image-editor/raw/master/media/examples/viewMode.gif" width="200" />
+
 
 Full Code:
 ```dart 
