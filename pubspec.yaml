@@ -1,7 +1,7 @@
 name: bc_image_editor
-description: A new Flutter package project.
-version: 0.0.1
-repository: ""
+description: Do you need quick image editing? You can do it with this package. It is very useful and quick tool.
+version: 0.0.2
+repository: "https://github.com/berkayceylan150/bc-image-editor"
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  gesture_x_detector: ^1.0.0
   path_provider: ^2.0.9
 
 dev_dependencies:

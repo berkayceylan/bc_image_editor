@@ -6,7 +6,6 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
-
 Future<File> getImageFileFromAssets(String path) async {
   final byteData = await rootBundle.load(path);
 
@@ -23,8 +22,8 @@ Future<File> getImageFileFromAssets(String path) async {
 }
 
 class BcImageEditor extends StatelessWidget {
-  final String? bgImage;
-  final String? frontImage;
+
+  final String? bgImage, frontImage;
 
   final double? frontLeft,
       frontTop,
@@ -36,6 +35,7 @@ class BcImageEditor extends StatelessWidget {
   final double? transformScale, bgLeft, bgTop, bgWidth, bgHeight;
 
   final BoxFit frontBoxFit, bgBoxFit;
+
 
   const BcImageEditor({
     Key? key,
