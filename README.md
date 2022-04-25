@@ -1,6 +1,10 @@
 # BC Image Editor
 You can edit image using this package and also you can create flex preview image by setting foreground to null. For now, you can use only asset files.
 
+[![likes](https://badges.bar/bc_image_editor/likes)](https://pub.dev/packages/bc_image_editor)
+[![MIT](https://img.shields.io/github/license/berkayceylan150/bc_image_editor)](https://github.com/berkayceylan150/bc_image_editor)
+
+
 ## Features
 
 - Background and Foreground(optional) image
